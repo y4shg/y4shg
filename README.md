@@ -9,7 +9,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4shg&theme=graywhite&hide_border=true" alt="y4shg's Streak" width="70%"/>
 </p>
 
-<p align="left"> <a href="https://twitter.com/_yashghule" target="blank"><img src="https://img.shields.io/twitter/follow/_yashghule?logo=twitter&style=for-the-badge" alt="_yashghule" /></a> </p>
+<p align="center"> <a href="https://twitter.com/_yashghule" target="blank"><img src="https://img.shields.io/twitter/follow/_yashghule?logo=twitter&style=for-the-badge" alt="_yashghule" /></a> </p>
 
 - 🔭 I’m currently working on **JyotiGPT**
 
