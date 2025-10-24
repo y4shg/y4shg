@@ -13,13 +13,13 @@
 
 <div align="center">
 
-- 🔭 I’m currently working on **JyotiGPT**
+ 🔭 I’m currently working on **JyotiGPT**
 
-- 🌱 I’m currently learning **Python, Java**
+ 🌱 I’m currently learning **Python, Java**
 
-- 💬 Ask me about **flutter, pytorch, opencv, react, astro, html, javascript**
+ 💬 Ask me about **flutter, pytorch, opencv, react, astro, html, javascript**
 
-- 📫 How to reach me **vovxb@vovxb.eu**
+ 📫 How to reach me **vovxb@vovxb.eu**
 
 </div>
 
