@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate frontend developer from the USA!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y4shg" alt="y4shg" /></a> </p>
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4shg&theme=zenburn)
 
 <p align="left"> <a href="https://twitter.com/_yashghule" target="blank"><img src="https://img.shields.io/twitter/follow/_yashghule?logo=twitter&style=for-the-badge" alt="_yashghule" /></a> </p>
 
