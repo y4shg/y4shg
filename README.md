@@ -2,7 +2,11 @@
 <h3 align="center">A passionate frontend developer from the USA!</h3>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4shg&theme=zenburn" alt="Profile details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4shg&theme=zenburn" alt="Profile details" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4shg&theme=graywhite&hide_border=true" alt="y4shg's Streak" width="70%"/>
 </p>
 
 <p align="left"> <a href="https://twitter.com/_yashghule" target="blank"><img src="https://img.shields.io/twitter/follow/_yashghule?logo=twitter&style=for-the-badge" alt="_yashghule" /></a> </p>
