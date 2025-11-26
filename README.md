@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A passionate frontend developer from the USA!</h3>
+<h3 align="center">a passionate frontend developer from the USA!</h3>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4shg&theme=zenburn" alt="Profile details" width="70%"/>
