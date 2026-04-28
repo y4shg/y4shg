@@ -30,8 +30,8 @@
   <td align="center" width="80"><a href="https://www.youtube.com/c/vovxb" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40"/></a></td>
 </tr></table>
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
+<h3 align="center">Languages and Tools:</h3>
+<table align="center">
   <tr>
     <td align="center" width="60"><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></td>
     <td align="center" width="60"><a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
