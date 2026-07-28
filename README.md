@@ -5,10 +5,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4shg&theme=zenburn" alt="Profile details" width="70%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4shg&hide_border=true" alt="y4shg's Streak" width="70%"/>
-</p>
-
 <p align="center"> <a href="https://twitter.com/_yashghule" target="blank"><img src="https://img.shields.io/twitter/follow/_yashghule?logo=twitter&style=for-the-badge" alt="_yashghule" /></a> </p>
 
 <div align="center">
@@ -71,9 +67,3 @@
 </table>
 
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=y4shg&show_icons=true&locale=en&layout=compact" alt="y4shg" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=y4shg&show_icons=true&locale=en" alt="y4shg" />
-</p>
