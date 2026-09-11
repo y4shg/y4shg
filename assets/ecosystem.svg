@@ -1,0 +1,92 @@
+<svg viewBox="0 0 1000 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="System map — everything from one workbench">
+  <style>
+    :root { --ink: #1a1a1a; --soft: #6e6e6e; --faint: #a8a8a8; --line: #c9c9c9; --wash: #f1f1f1; }
+    @media (prefers-color-scheme: dark) { :root { --ink: #ececec; --soft: #9a9a9a; --faint: #5f5f5f; --line: #3a3a3a; --wash: #161616; } }
+    .serif { font-family: Georgia, 'Charter', 'Times New Roman', serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; }
+    .rise { opacity: 0; animation: rise .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    .rule { stroke: var(--line); stroke-width: 1; stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.5s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s} .a5{animation-delay:.95s} .a6{animation-delay:1.15s}
+    .blink { animation: blink 1.6s steps(2) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } .rule { animation: none; stroke-dashoffset: 0; } .blink { animation: none; } }
+  </style>
+
+  <line class="rule a1" x1="48" y1="40" x2="952" y2="40"/>
+  <text class="mono rise a1" fill="var(--soft)" x="48" y="28" font-size="11" letter-spacing="3.5">SYSTEM MAP &#8212; ONE WORKBENCH, MANY MACHINES</text>
+  <text class="mono rise a1" fill="var(--soft)" x="952" y="28" font-size="11" letter-spacing="3.5" text-anchor="end">FIG. 01</text>
+  <line class="rule a2" x1="48" y1="94" x2="952" y2="94"/>
+  <g class="rise a2"><rect x="430" y="72" width="140" height="44" fill="var(--ink)"/>
+  <text class="mono" x="500" y="99" font-size="13" letter-spacing="3" text-anchor="middle" fill="var(--wash)">Y4SHG.OS</text></g>
+
+  <g class="rise a1">
+    <rect x="48" y="120" width="202" height="120" fill="none" stroke="var(--line)" stroke-width="1"/>
+    <rect x="48" y="120" width="202" height="34" fill="var(--wash)"/>
+    <text class="mono" x="60" y="143" font-size="12" letter-spacing="1.5" fill="var(--ink)">JYOTIGPT</text>
+    <text class="mono" x="60" y="182" font-size="11.5" fill="var(--soft)">meditation AI platform</text>
+    <text class="mono" x="60" y="220" font-size="10.5" letter-spacing="2" fill="var(--faint)">JS &#9733;2</text>
+    <line x1="149" y1="94" x2="149" y2="120" stroke="var(--line)"/>
+  </g>
+  <g class="rise a2">
+    <rect x="282" y="120" width="202" height="120" fill="none" stroke="var(--line)" stroke-width="1"/>
+    <rect x="282" y="120" width="202" height="34" fill="var(--wash)"/>
+    <text class="mono" x="294" y="143" font-size="12" letter-spacing="1.5" fill="var(--ink)">DASHBOARD</text>
+    <text class="mono" x="294" y="182" font-size="11.5" fill="var(--soft)">flask ops console</text>
+    <text class="mono" x="294" y="220" font-size="10.5" letter-spacing="2" fill="var(--faint)">PYTHON</text>
+    <line x1="383" y1="94" x2="383" y2="120" stroke="var(--line)"/>
+  </g>
+  <g class="rise a3">
+    <rect x="516" y="120" width="202" height="120" fill="none" stroke="var(--line)" stroke-width="1"/>
+    <rect x="516" y="120" width="202" height="34" fill="var(--wash)"/>
+    <text class="mono" x="528" y="143" font-size="12" letter-spacing="1.5" fill="var(--ink)">SIDEWALKBOT</text>
+    <text class="mono" x="528" y="182" font-size="11.5" fill="var(--soft)">sidewalk robot</text>
+    <text class="mono" x="528" y="220" font-size="10.5" letter-spacing="2" fill="var(--faint)">C++</text>
+    <line x1="617" y1="94" x2="617" y2="120" stroke="var(--line)"/>
+  </g>
+  <g class="rise a4">
+    <rect x="750" y="120" width="202" height="120" fill="none" stroke="var(--line)" stroke-width="1"/>
+    <rect x="750" y="120" width="202" height="34" fill="var(--wash)"/>
+    <text class="mono" x="762" y="143" font-size="12" letter-spacing="1.5" fill="var(--ink)">BABABOT</text>
+    <text class="mono" x="762" y="182" font-size="11.5" fill="var(--soft)">Q&#38;A helper bot</text>
+    <text class="mono" x="762" y="220" font-size="10.5" letter-spacing="2" fill="var(--faint)">PYTHON</text>
+    <line x1="851" y1="94" x2="851" y2="120" stroke="var(--line)"/>
+  </g>
+  <g class="rise a5">
+    <rect x="48" y="300" width="202" height="120" fill="none" stroke="var(--line)" stroke-width="1"/>
+    <rect x="48" y="300" width="202" height="34" fill="var(--wash)"/>
+    <text class="mono" x="60" y="323" font-size="12" letter-spacing="1.5" fill="var(--ink)">NEOTARK</text>
+    <text class="mono" x="60" y="362" font-size="11.5" fill="var(--soft)">typescript build</text>
+    <text class="mono" x="60" y="400" font-size="10.5" letter-spacing="2" fill="var(--faint)">TS</text>
+    <line x1="149" y1="274" x2="149" y2="300" stroke="var(--line)"/>
+  </g>
+  <g class="rise a1">
+    <rect x="282" y="300" width="202" height="120" fill="none" stroke="var(--line)" stroke-width="1"/>
+    <rect x="282" y="300" width="202" height="34" fill="var(--wash)"/>
+    <text class="mono" x="294" y="323" font-size="12" letter-spacing="1.5" fill="var(--ink)">LAAP SHELL</text>
+    <text class="mono" x="294" y="362" font-size="11.5" fill="var(--soft)">folio playground</text>
+    <text class="mono" x="294" y="400" font-size="10.5" letter-spacing="2" fill="var(--faint)">TS</text>
+    <line x1="383" y1="274" x2="383" y2="300" stroke="var(--line)"/>
+  </g>
+  <g class="rise a2">
+    <rect x="516" y="300" width="202" height="120" fill="none" stroke="var(--line)" stroke-width="1"/>
+    <rect x="516" y="300" width="202" height="34" fill="var(--wash)"/>
+    <text class="mono" x="528" y="323" font-size="12" letter-spacing="1.5" fill="var(--ink)">WEBUIDATA</text>
+    <text class="mono" x="528" y="362" font-size="11.5" fill="var(--soft)">web data lab</text>
+    <text class="mono" x="528" y="400" font-size="10.5" letter-spacing="2" fill="var(--faint)">—</text>
+    <line x1="617" y1="274" x2="617" y2="300" stroke="var(--line)"/>
+  </g>
+  <g class="rise a3">
+    <rect x="750" y="300" width="202" height="120" fill="none" stroke="var(--line)" stroke-width="1"/>
+    <rect x="750" y="300" width="202" height="34" fill="var(--wash)"/>
+    <text class="mono" x="762" y="323" font-size="12" letter-spacing="1.5" fill="var(--ink)">Y4SHG</text>
+    <text class="mono" x="762" y="362" font-size="11.5" fill="var(--soft)">this profile</text>
+    <text class="mono" x="762" y="400" font-size="10.5" letter-spacing="2" fill="var(--faint)">MD</text>
+    <line x1="851" y1="274" x2="851" y2="300" stroke="var(--line)"/>
+  </g>
+  <g class="rise a5">
+    <text class="mono" x="48" y="464" font-size="11" fill="var(--soft)" letter-spacing="2">WEB &#183; AI &#183; ROBOTICS &#8212; every box ships from the same desk</text>
+  </g>
+
+</svg>

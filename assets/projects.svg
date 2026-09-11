@@ -1,0 +1,76 @@
+<svg viewBox="0 0 1000 906" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Eight projects by Yash Ghule">
+  <style>
+    :root { --ink: #1a1a1a; --soft: #6e6e6e; --faint: #a8a8a8; --line: #c9c9c9; --wash: #f1f1f1; }
+    @media (prefers-color-scheme: dark) { :root { --ink: #ececec; --soft: #9a9a9a; --faint: #5f5f5f; --line: #3a3a3a; --wash: #161616; } }
+    .serif { font-family: Georgia, 'Charter', 'Times New Roman', serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; }
+    .rise { opacity: 0; animation: rise .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    .rule { stroke: var(--line); stroke-width: 1; stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.5s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s} .a5{animation-delay:.95s} .a6{animation-delay:1.15s}
+    .blink { animation: blink 1.6s steps(2) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } .rule { animation: none; stroke-dashoffset: 0; } .blink { animation: none; } }
+  </style>
+
+  <style>
+    .row { opacity: 0; animation: reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes reveal { to { opacity: 1; } }
+    .r1{animation-delay:.05s} .r2{animation-delay:.1s} .r3{animation-delay:.15s} .r4{animation-delay:.2s}
+    .r5{animation-delay:.25s} .r6{animation-delay:.3s} .r7{animation-delay:.35s} .r8{animation-delay:.4s}
+    .titlex { fill: var(--ink); } .copy { fill: var(--ink); font-size: 12.5px; } .meta { fill: var(--soft); font-size: 11px; letter-spacing: .4px; }
+    .rule { stroke: var(--line); }
+  </style>
+  <g>
+    <g class="row r1" transform="translate(0 0)">
+      <text class="serif" font-style="italic" x="48" y="30" font-size="26" fill="var(--ink)">01 / JYOTIGPT</text>
+      <text class="copy mono" x="48" y="58">Self-hosted meditation AI — calm WebUI for guided reflection and private, offline AI use.</text>
+      <text class="meta mono" x="48" y="80">JAVASCRIPT &#183; AI &#183; WEBUI &#9733; 2</text>
+      <line class="rule" x1="48" y1="96" x2="952" y2="96"/>
+    </g>
+    <g class="row r2" transform="translate(0 112)">
+      <text class="serif" font-style="italic" x="48" y="30" font-size="26" fill="var(--ink)">02 / JYOTIGPT-DASHBOARD</text>
+      <text class="copy mono" x="48" y="58">Flask ops console — auth, analytics integration and HuggingFace Spaces management.</text>
+      <text class="meta mono" x="48" y="80">PYTHON &#183; FLASK &#183; OPS</text>
+      <line class="rule" x1="48" y1="96" x2="952" y2="96"/>
+    </g>
+    <g class="row r3" transform="translate(0 224)">
+      <text class="serif" font-style="italic" x="48" y="30" font-size="26" fill="var(--ink)">03 / SIDEWALKBOT</text>
+      <text class="copy mono" x="48" y="58">Sidewalk-following robot — perception and motion for the pavement problem.</text>
+      <text class="meta mono" x="48" y="80">C++ &#183; ROBOTICS</text>
+      <line class="rule" x1="48" y1="96" x2="952" y2="96"/>
+    </g>
+    <g class="row r4" transform="translate(0 336)">
+      <text class="serif" font-style="italic" x="48" y="30" font-size="26" fill="var(--ink)">04 / BABABOT</text>
+      <text class="copy mono" x="48" y="58">Lightweight Q&#38;A helper bot for a lovely community of students.</text>
+      <text class="meta mono" x="48" y="80">PYTHON &#183; BOTS &#9733; 1</text>
+      <line class="rule" x1="48" y1="96" x2="952" y2="96"/>
+    </g>
+    <g class="row r5" transform="translate(0 448)">
+      <text class="serif" font-style="italic" x="48" y="30" font-size="26" fill="var(--ink)">05 / NEOTARK</text>
+      <text class="copy mono" x="48" y="58">TypeScript experiment — new ideas get a playground before they get a name.</text>
+      <text class="meta mono" x="48" y="80">TYPESCRIPT</text>
+      <line class="rule" x1="48" y1="96" x2="952" y2="96"/>
+    </g>
+    <g class="row r6" transform="translate(0 560)">
+      <text class="serif" font-style="italic" x="48" y="30" font-size="26" fill="var(--ink)">06 / LAAP-FOLIO-SHELL</text>
+      <text class="copy mono" x="48" y="58">Hardware-themed portfolio at laap.top — keycaps, floppies and live GitHub stats.</text>
+      <text class="meta mono" x="48" y="80">TYPESCRIPT &#183; PORTFOLIO</text>
+      <line class="rule" x1="48" y1="96" x2="952" y2="96"/>
+    </g>
+    <g class="row r7" transform="translate(0 672)">
+      <text class="serif" font-style="italic" x="48" y="30" font-size="26" fill="var(--ink)">07 / WEBUIDATA</text>
+      <text class="copy mono" x="48" y="58">Web data sketches — scraping, shaping and serving what the web forgets.</text>
+      <text class="meta mono" x="48" y="80">DATA &#183; WEB &#9733; 1</text>
+      <line class="rule" x1="48" y1="96" x2="952" y2="96"/>
+    </g>
+    <g class="row r8" transform="translate(0 784)">
+      <text class="serif" font-style="italic" x="48" y="30" font-size="26" fill="var(--ink)">08 / Y4SHG</text>
+      <text class="copy mono" x="48" y="58">This very profile — a monochrome folio that redraws itself in light and dark.</text>
+      <text class="meta mono" x="48" y="80">PROFILE &#183; SVG</text>
+      <line class="rule" x1="48" y1="96" x2="952" y2="96"/>
+    </g>
+  </g>
+
+</svg>

@@ -1,69 +1,37 @@
-<h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">a passionate frontend developer from the USA!</h3>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4shg&theme=zenburn" alt="Profile details" width="70%"/>
-</p>
-
-<p align="center"> <a href="https://twitter.com/_yashghule" target="blank"><img src="https://img.shields.io/twitter/follow/_yashghule?logo=twitter&style=for-the-badge" alt="_yashghule" /></a> </p>
-
 <div align="center">
 
- 🔭 I'm currently working on **JyotiGPT**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Yash Ghule"/></picture>
 
- 🌱 I'm currently learning **Python, Java**
-
- 💬 Ask me about **flutter, pytorch, opencv, react, astro, html, javascript**
-
- 📫 How to reach me **vovxb@vovxb.eu**
+<a href="https://laap.top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
+<a href="mailto:vovxb@vovxb.eu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email"/></picture></a>
+<a href="https://x.com/_yashghule"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=ffffff"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square&logo=x&logoColor=000000" alt="X"/></picture></a>
+<a href="https://linkedin.com/in/yash-ghule-463892265"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
+<a href="https://www.youtube.com/c/vovxb"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/YOUTUBE-0d1117?style=flat-square&logo=youtube&logoColor=ffffff"/><img src="https://img.shields.io/badge/YOUTUBE-ffffff?style=flat-square&logo=youtube&logoColor=000000" alt="YouTube"/></picture></a>
 
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<table align="center"><tr>
-  <td align="center" width="80"><a href="https://twitter.com/_yashghule" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/></a></td>
-  <td align="center" width="80"><a href="https://linkedin.com/in/yash-ghule-463892265" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a></td>
-  <td align="center" width="80"><a href="https://www.youtube.com/c/vovxb" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40"/></a></td>
-</tr></table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Yash"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — selected work"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="8 projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Animated development telemetry"/></picture>
 
-<h3 align="center">Languages and Tools:</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="60"><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="60"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>Script</a></td>
-    <td align="center" width="60"><a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="60"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a></td>
-    <td align="center" width="60"><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
-    <td></td>
-  </tr>
-</table>
+<div align="center">
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=y4shg&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=y4shg&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
+
+</div>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Professional experience"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
+
+<!-- design language inspired by Sharann-del; all artwork original -->
