@@ -28,10 +28,10 @@
   </g>
   <g class="rise a4">
     <rect x="48" y="258" width="9" height="18" fill="var(--ink)"/>
-    <text class="mono" fill="var(--ink)" x="68" y="273" font-size="14" letter-spacing="1">now &#8212; JyotiGPT, a self-hosted meditation AI platform</text>
+    <text class="mono" fill="var(--ink)" x="68" y="273" font-size="14" letter-spacing="1">now &#8212; JyotiGPT</text>
   </g>
   <g class="rise a5">
-    <text class="mono" fill="var(--faint)" x="48" y="302" font-size="13" letter-spacing="1">learning python + java &#183; open to collaboration &#183; vovxb@vovxb.eu</text>
+    <text class="mono" fill="var(--faint)" x="48" y="302" font-size="13" letter-spacing="1">open to collaboration &#183; vovxb@vovxb.eu</text>
   </g>
   <line class="rule a5" x1="48" y1="338" x2="952" y2="338"/>
   <g class="rise a6">
@@ -40,7 +40,6 @@
     <text class="mono" fill="var(--soft)" x="282" y="372" font-size="11.5" letter-spacing="3">ROBOTICS &#38; AI</text>
     <text class="mono" fill="var(--faint)" x="452" y="372" font-size="11.5">/</text>
     <text class="mono" fill="var(--soft)" x="472" y="372" font-size="11.5" letter-spacing="3">OPEN SOURCE</text>
-    <text class="mono" fill="var(--soft)" x="952" y="372" font-size="11.5" letter-spacing="3" text-anchor="end">LAAP.TOP &#8212; EST. 2024</text>
   </g>
 
 </svg>
