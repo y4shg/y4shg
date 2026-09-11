@@ -16,10 +16,6 @@
 
   <line class="rule a1" x1="48" y1="60" x2="952" y2="60"/>
   <line class="rule a1" x1="48" y1="66" x2="952" y2="66"/>
-  <g class="rise a1">
-    <text class="mono" fill="var(--soft)" x="48" y="46" font-size="11" letter-spacing="3.5">FOLIO &#8212; VOL. 01</text>
-    <text class="mono" fill="var(--soft)" x="952" y="46" font-size="11" letter-spacing="3.5" text-anchor="end">USA &#8212; 40.71&#176; N</text>
-  </g>
   <g class="rise a2">
     <text class="serif" font-style="italic" fill="var(--ink)" x="44" y="188" font-size="104" letter-spacing="-1">Yash Ghule<tspan fill="var(--soft)">.</tspan></text>
   </g>

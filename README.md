@@ -4,9 +4,6 @@
 
 <a href="https://laap.top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
 <a href="mailto:vovxb@vovxb.eu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email"/></picture></a>
-<a href="https://x.com/_yashghule"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=ffffff"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square&logo=x&logoColor=000000" alt="X"/></picture></a>
-<a href="https://linkedin.com/in/yash-ghule-463892265"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
-<a href="https://www.youtube.com/c/vovxb"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/YOUTUBE-0d1117?style=flat-square&logo=youtube&logoColor=ffffff"/><img src="https://img.shields.io/badge/YOUTUBE-ffffff?style=flat-square&logo=youtube&logoColor=000000" alt="YouTube"/></picture></a>
 
 </div>
 
