@@ -15,8 +15,6 @@
   </style>
 
   <line class="rule a1" x1="48" y1="40" x2="952" y2="40"/>
-  <text class="mono rise a1" fill="var(--soft)" x="48" y="28" font-size="11" letter-spacing="3.5">WORKSPACE &#8212; ONE DESK, MANY MACHINES</text>
-  <text class="mono rise a1" fill="var(--soft)" x="952" y="28" font-size="11" letter-spacing="3.5" text-anchor="end">FIG. 01</text>
   <line class="rule a2" x1="48" y1="94" x2="952" y2="94"/>
   <g class="rise a1">
     <rect x="118" y="120" width="202" height="120" fill="none" stroke="var(--line)" stroke-width="1"/>
